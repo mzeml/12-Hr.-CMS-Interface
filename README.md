@@ -24,6 +24,6 @@ Since this project was completely new to me, there are a **bunch** of issues wit
 
 ## What I Learned
 
-Google and Stack Overflow are my saviors
-The simplest mistakes are often the ones that plague you (I forgot to enable PHP in Apache which lead to an hour of useless debugging)
-Given a tight deadline, I can accomplish the seemingly impossible (to myself)
+1. Google and Stack Overflow are my saviors
+2. The simplest mistakes are often the ones that plague you (I forgot to enable PHP in Apache which lead to an hour of useless debugging)
+3. Given a tight deadline, I can accomplish the seemingly impossible (to myself)
