@@ -1,4 +1,4 @@
-# 12-Hr.-CMS-Interface
+# CMS-Interface
 
 ## Objective
 
